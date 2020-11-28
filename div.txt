@@ -1,2 +1,2 @@
 Divide two numbers 
-45/5
+45/15

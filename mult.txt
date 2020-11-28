@@ -1,1 +1,2 @@
 Multiply two numbers
+47*16
